@@ -1,2 +1,3 @@
 # helloWorld
-Just another repository
+effygips
+developer, designer, enhancer
